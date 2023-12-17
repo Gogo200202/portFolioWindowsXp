@@ -1,5 +1,5 @@
 
-# portFolioWindowsXp
+# Port folio windows xp
 
 This repository is to showcase my ability to learn new skills.
 For this reason, I decided to learn three.js and use it to build small application to show it.
